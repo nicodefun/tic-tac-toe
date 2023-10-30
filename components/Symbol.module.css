@@ -1,0 +1,14 @@
+.symbol {
+    margin: 2.5rem 0;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+  }
+  .symbol .lg{
+    gap: 1rem;
+  }
+  .sm{
+    gap: 0.5rem;
+  }
+ 
